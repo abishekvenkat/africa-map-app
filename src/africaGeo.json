@@ -1,0 +1,250 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Angola", "capital": "Luanda" },
+      "geometry": { "type": "Polygon", "coordinates": [[[13.78199,-5.85651],[13.78199,-4.97056],[12.32966,-4.97056],[12.32966,-5.85651],[13.78199,-5.85651]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Burundi", "capital": "Bujumbura" },
+      "geometry": { "type": "Polygon", "coordinates": [[[29.97641,-3.24478],[29.97641,-2.83762],[30.46974,-2.83762],[30.46974,-3.24478],[29.97641,-3.24478]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Benin", "capital": "Porto-Novo" },
+      "geometry": { "type": "Polygon", "coordinates": [[[2.69196,6.45023],[2.69196,12.23547],[3.61528,12.23547],[3.61528,6.45023],[2.69196,6.45023]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Burkina Faso", "capital": "Ouagadougou" },
+      "geometry": { "type": "Polygon", "coordinates": [[[-5.47056,9.61112],[-5.47056,15.08413],[-2.40486,15.08413],[-2.40486,9.61112],[-5.47056,9.61112]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Botswana", "capital": "Gaborone" },
+      "geometry": { "type": "Polygon", "coordinates": [[[20.00195,-26.73382],[20.00195,-17.96081],[29.36009,-17.96081],[29.36009,-26.73382],[20.00195,-26.73382]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Central African Republic", "capital": "Bangui" },
+      "geometry": { "type": "Polygon", "coordinates": [[[14.42076,2.26764],[14.42076,11.00574],[27.37422,11.00574],[27.37422,2.26764],[14.42076,2.26764]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Côte d'Ivoire", "capital": "Yamoussoukro" },
+      "geometry": { "type": "Polygon", "coordinates": [[[-8.60288,4.33828],[-8.60288,10.73234],[-2.56459,10.73234],[-2.56459,4.33828],[-8.60288,4.33828]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Cameroon", "capital": "Yaoundé" },
+      "geometry": { "type": "Polygon", "coordinates": [[[8.48881,1.72767],[8.48881,13.07506],[16.19202,13.07506],[16.19202,1.72767],[8.48881,1.72767]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Democratic Republic of the Congo", "capital": "Kinshasa" },
+      "geometry": { "type": "Polygon", "coordinates": [[[12.20612,-13.25718],[12.20612,5.25608],[31.30455,5.25608],[31.30455,-13.25718],[12.20612,-13.25718]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Republic of Congo", "capital": "Brazzaville" },
+      "geometry": { "type": "Polygon", "coordinates": [[[11.20998,-5.03731],[11.20998,3.70327],[18.64302,3.70327],[18.64302,-5.03731],[11.20998,-5.03731]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Djibouti", "capital": "Djibouti" },
+      "geometry": { "type": "Polygon", "coordinates": [[[41.77131,10.92687],[41.77131,12.70683],[43.41766,12.70683],[43.41766,10.92687],[41.77131,10.92687]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Algeria", "capital": "Algiers" },
+      "geometry": { "type": "Polygon", "coordinates": [[[-8.68439,18.96387],[-8.68439,37.09361],[11.99951,37.09361],[11.99951,18.96387],[-8.68439,18.96387]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Egypt", "capital": "Cairo" },
+      "geometry": { "type": "Polygon", "coordinates": [[[24.70007,22.0],[24.70007,31.58568],[36.86623,31.58568],[36.86623,22.0],[24.70007,22.0]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Eritrea", "capital": "Asmara" },
+      "geometry": { "type": "Polygon", "coordinates": [[[36.42951,12.35566],[36.42951,18.00321],[43.13464,18.00321],[43.13464,12.35566],[36.42951,12.35566]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Ethiopia", "capital": "Addis Ababa" },
+      "geometry": { "type": "Polygon", "coordinates": [[[33.00944,3.42206],[33.00944,14.84301],[47.98942,14.84301],[47.98942,3.42206],[33.00944,3.42206]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Gabon", "capital": "Libreville" },
+      "geometry": { "type": "Polygon", "coordinates": [[[8.69547,-3.97857],[8.69547,2.32261],[14.50217,2.32261],[14.50217,-3.97857],[8.69547,-3.97857]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Ghana", "capital": "Accra" },
+      "geometry": { "type": "Polygon", "coordinates": [[[-3.24437,4.71046],[-3.24437,11.17358],[1.06068,11.17358],[1.06068,4.71046],[-3.24437,4.71046]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Guinea", "capital": "Conakry" },
+      "geometry": { "type": "Polygon", "coordinates": [[[-15.13012,7.30977],[-15.13012,12.67622],[-7.64107,12.67622],[-7.64107,7.30977],[-15.13012,7.30977]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Gambia", "capital": "Banjul" },
+      "geometry": { "type": "Polygon", "coordinates": [[[-16.84526,13.13043],[-16.84526,13.82681],[-13.79075,13.82681],[-13.79075,13.13043],[-16.84526,13.13043]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Guinea-Bissau", "capital": "Bissau" },
+      "geometry": { "type": "Polygon", "coordinates": [[[-16.71372,10.92444],[-16.71372,12.68072],[-13.63848,12.68072],[-13.63848,10.92444],[-16.71372,10.92444]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Equatorial Guinea", "capital": "Malabo" },
+      "geometry": { "type": "Polygon", "coordinates": [[[9.3056,1.01012],[9.3056,2.34695],[11.33528,2.34695],[11.33528,1.01012],[9.3056,1.01012]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Kenya", "capital": "Nairobi" },
+      "geometry": { "type": "Polygon", "coordinates": [[[33.90371,-4.67677],[33.90371,5.50603],[41.89957,5.50603],[41.89957,-4.67677],[33.90371,-4.67677]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Liberia", "capital": "Monrovia" },
+      "geometry": { "type": "Polygon", "coordinates": [[[-11.49203,4.35575],[-11.49203,8.54105],[-7.36522,8.54105],[-7.36522,4.35575],[-11.49203,4.35575]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Libya", "capital": "Tripoli" },
+      "geometry": { "type": "Polygon", "coordinates": [[[9.31941,19.58047],[9.31941,33.13567],[25.14589,33.13567],[25.14589,19.58047],[9.31941,19.58047]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Lesotho", "capital": "Maseru" },
+      "geometry": { "type": "Polygon", "coordinates": [[[27.02014,-30.64545],[27.02014,-28.57183],[29.46557,-28.57183],[29.46557,-30.64545],[27.02014,-30.64545]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Morocco", "capital": "Rabat" },
+      "geometry": { "type": "Polygon", "coordinates": [[[-13.17404,27.66986],[-13.17404,35.92595],[-1.00803,35.92595],[-1.00803,27.66986],[-13.17404,27.66986]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Madagascar", "capital": "Antananarivo" },
+      "geometry": { "type": "Polygon", "coordinates": [[[43.25195,-25.60151],[43.25195,-11.95535],[50.48553,-11.95535],[50.48553,-25.60151],[43.25195,-25.60151]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Mali", "capital": "Bamako" },
+      "geometry": { "type": "Polygon", "coordinates": [[[-12.24092,10.09633],[-12.24092,25.00015],[4.27714,25.00015],[4.27714,10.09633],[-12.24092,10.09633]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Mozambique", "capital": "Maputo" },
+      "geometry": { "type": "Polygon", "coordinates": [[[30.21788,-26.86806],[30.21788,-10.47186],[40.84376,-10.47186],[40.84376,-26.86806],[30.21788,-26.86806]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Mauritania", "capital": "Nouakchott" },
+      "geometry": { "type": "Polygon", "coordinates": [[[-17.06633,14.61624],[-17.06633,27.29798],[-4.92333,27.29798],[-4.92333,14.61624],[-17.06633,14.61624]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Malawi", "capital": "Lilongwe" },
+      "geometry": { "type": "Polygon", "coordinates": [[[32.68957,-17.12511],[32.68957,-9.36694],[35.91887,-9.36694],[35.91887,-17.12511],[32.68957,-17.12511]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Namibia", "capital": "Windhoek" },
+      "geometry": { "type": "Polygon", "coordinates": [[[11.73415,-28.96945],[11.73415,-16.95194],[25.25839,-16.95194],[25.25839,-28.96945],[11.73415,-28.96945]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Niger", "capital": "Niamey" },
+      "geometry": { "type": "Polygon", "coordinates": [[[0.16625,11.69607],[0.16625,23.52513],[15.99581,23.52513],[15.99581,11.69607],[0.16625,11.69607]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Nigeria", "capital": "Abuja" },
+      "geometry": { "type": "Polygon", "coordinates": [[[2.69196,4.27714],[2.69196,13.89198],[14.67926,13.89198],[14.67926,4.27714],[2.69196,4.27714]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Rwanda", "capital": "Kigali" },
+      "geometry": { "type": "Polygon", "coordinates": [[[28.86617,-2.82685],[28.86617,-1.05348],[30.89969,-1.05348],[30.89969,-2.82685],[28.86617,-2.82685]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Western Sahara", "capital": "El Aaiún" },
+      "geometry": { "type": "Polygon", "coordinates": [[[-17.10473,20.76404],[-17.10473,27.66986],[-8.67027,27.66986],[-8.67027,20.76404],[-17.10473,20.76404]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Sudan", "capital": "Khartoum" },
+      "geometry": { "type": "Polygon", "coordinates": [[[21.83545,8.69955],[21.83545,22.23236],[38.60871,22.23236],[38.60871,8.69955],[21.83545,8.69955]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "South Sudan", "capital": "Juba" },
+      "geometry": { "type": "Polygon", "coordinates": [[[24.14068,3.50917],[24.14068,12.24862],[35.94835,12.24862],[35.94835,3.50917],[24.14068,3.50917]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Senegal", "capital": "Dakar" },
+      "geometry": { "type": "Polygon", "coordinates": [[[-17.62504,12.33244],[-17.62504,16.69207],[-11.46779,16.69207],[-11.46779,12.33244],[-17.62504,12.33244]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Sierra Leone", "capital": "Freetown" },
+      "geometry": { "type": "Polygon", "coordinates": [[[-13.24655,6.78591],[-13.24655,10.01801],[-10.28083,10.01801],[-10.28083,6.78591],[-13.24655,6.78591]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Somalia", "capital": "Mogadishu" },
+      "geometry": { "type": "Polygon", "coordinates": [[[40.98105,-1.68325],[40.98105,11.98903],[51.41626,11.98903],[51.41626,-1.68325],[40.98105,-1.68325]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Chad", "capital": "N'Djamena" },
+      "geometry": { "type": "Polygon", "coordinates": [[[13.54019,7.44107],[13.54019,23.45048],[24.00078,23.45048],[24.00078,7.44107],[13.54019,7.44107]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Togo", "capital": "Lomé" },
+      "geometry": { "type": "Polygon", "coordinates": [[[0.11725,6.10442],[0.11725,11.13855],[1.80669,11.13855],[1.80669,6.10442],[0.11725,6.10442]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Tunisia", "capital": "Tunis" },
+      "geometry": { "type": "Polygon", "coordinates": [[[7.52448,30.30756],[7.52448,37.34999],[11.59802,37.34999],[11.59802,30.30756],[7.52448,30.30756]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Tanzania", "capital": "Dodoma" },
+      "geometry": { "type": "Polygon", "coordinates": [[[29.32937,-11.72077],[29.32937,-0.98863],[40.44318,-0.98863],[40.44318,-11.72077],[29.32937,-11.72077]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Uganda", "capital": "Kampala" },
+      "geometry": { "type": "Polygon", "coordinates": [[[29.57346,-1.44332],[29.57346,4.21968],[35.03599,4.21968],[35.03599,-1.44332],[29.57346,-1.44332]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "South Africa", "capital": "Pretoria" },
+      "geometry": { "type": "Polygon", "coordinates": [[[16.34977,-34.81916],[16.34977,-22.12503],[32.83055,-22.12503],[32.83055,-34.81916],[16.34977,-34.81916]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Zambia", "capital": "Lusaka" },
+      "geometry": { "type": "Polygon", "coordinates": [[[21.99371,-18.07953],[21.99371,-8.23825],[33.70652,-8.23825],[33.70652,-18.07953],[21.99371,-18.07953]]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Zimbabwe", "capital": "Harare" },
+      "geometry": { "type": "Polygon", "coordinates": [[[25.26443,-22.27117],[25.26443,-15.50754],[33.05659,-15.50754],[33.05659,-22.27117],[25.26443,-22.27117]]] }
+    }
+  ]
+}
